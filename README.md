@@ -1,2 +1,2 @@
 # kiberdruzina-nso
-rf
+site
